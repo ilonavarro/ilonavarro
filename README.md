@@ -1,5 +1,11 @@
 # Hi, I'm Ilo Navarro
 ### Frontend Developer
+Bachelor in information systems, I always liked the technology area, but I was away for ten years, working with finance, sales and people management.
+<br />
+I decided to return to the area as a frontend developer, focusing on React, using JavaScript (and TypeScript), CSS (and SASS) and HTML.
+<br />
+In the future I intend to focus on being a fullstack developer.
+
 ### Social links: 
 [<img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white' title="Ilo Navarro's Linkedin" />](https://linkedin.com/in/ilo-navarro)
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white' title="Ilo Navarro's dev.to" />](https://dev.to/ilonavarro)
@@ -10,6 +16,8 @@
 [<img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white' title="CSS 3" />](#)
 [<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black' title="JavaScript" />](#)
 [<img src='https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white' title="TypeScript" />](#)
+[<img src='https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white' title="Jest" />](#)
+[<img src='https://img.shields.io/badge/PNPM-222222?style=flat&logo=pnpm&logoColor=F69220' title="PNPM" />](#)
 [<img src='https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white' title="Git" />](#)
 
 ### I also know:
@@ -31,6 +39,10 @@
 [<img src='https://img.shields.io/badge/Design:-lightgrey' title="I also know this design tools:" />](#)
 [<img src='https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white' title="Figma" />](#)
 [<img src='https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white' title="Inkscape" />](#)
+<br />
+[<img src='https://img.shields.io/badge/Backend:-lightgrey' title="I also know this backend tools:" />](#)
+[<img src='https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white' title="Node JS" />](#)
+[<img src='https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white' title="Express" />](#)
 
 ### Basic knowledge and/or maintenance
 [<img src='https://img.shields.io/badge/Frameworks:-yellow' title="I have basic knowledge of or have serviced in this JS Frameworks:" />](#)
@@ -48,3 +60,7 @@
 [<img src='https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6' title="Adobe XD" />](#)
 [<img src='https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black' title="Sketch" />](#)
 <br />
+
+[![Ilo Navarro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilonavarro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilonavarro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
