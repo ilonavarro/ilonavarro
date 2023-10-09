@@ -60,7 +60,7 @@ In the future I intend to focus on being a fullstack developer.
 [<img src='https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6' title="Adobe XD" />](#)
 [<img src='https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black' title="Sketch" />](#)
 <br />
-
-[![Ilo Navarro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilonavarro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+<div align="center">
+[![Ilo Navarro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilonavarro&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilonavarro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
